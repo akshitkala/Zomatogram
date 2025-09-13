@@ -1,0 +1,5 @@
+bycrypt - password hashing
+express
+mongoose
+jsonwebtoken cookie-parser   -    cookie managamet
+dotenv
