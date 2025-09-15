@@ -3,3 +3,6 @@ express
 mongoose
 jsonwebtoken cookie-parser   -    cookie managamet
 dotenv
+multer - express cant read files directly on request so we need multer
+imagekit - cloud services
+uuid - unique id generation
